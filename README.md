@@ -1,4 +1,4 @@
-# handson A Function
-- A Fnuction1
-- A Fnuction2
-- A Fnuction3
+# handson C Function
+- C Fnuction1
+- C Fnuction2
+- C Fnuction3
